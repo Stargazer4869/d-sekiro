@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c16x7k8rkhkt1"]
+
+[ext_resource type="Script" uid="uid://b3y6mhschp07g" path="res://arena.gd" id="1"]
+
+[node name="ToolchainTrial" type="Node3D" unique_id=2105736067]
+script = ExtResource("1")

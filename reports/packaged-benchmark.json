@@ -1,0 +1,13 @@
+{
+  "average_fps": 152.151338264616,
+  "engine": "4.7.2-stable (official)",
+  "max_frame_ms": 134.978222222222,
+  "note": "Script frame deltas; automated orbit; verify drawable resolution and manual feel separately.",
+  "p95_frame_ms": 6.94444444444444,
+  "renderer": "gl_compatibility",
+  "sample_count": 9130,
+  "sample_seconds": 60.0060446666691,
+  "viewport": "(1920.0, 1080.0)",
+  "warmup_seconds": 5,
+  "window": "(1920, 1080)"
+}
